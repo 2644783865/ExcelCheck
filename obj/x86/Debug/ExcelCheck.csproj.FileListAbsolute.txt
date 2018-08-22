@@ -1,0 +1,9 @@
+d:\我的文档\documents\visual studio 2010\Projects\ExcelCheck\ExcelCheck\bin\Debug\ExcelCheck.exe
+d:\我的文档\documents\visual studio 2010\Projects\ExcelCheck\ExcelCheck\bin\Debug\ExcelCheck.pdb
+d:\我的文档\documents\visual studio 2010\Projects\ExcelCheck\ExcelCheck\obj\x86\Debug\ExcelCheck.csproj.ResolveComReference.cache
+d:\我的文档\documents\visual studio 2010\Projects\ExcelCheck\ExcelCheck\obj\x86\Debug\ExcelCheck.ExcelEdit.resources
+d:\我的文档\documents\visual studio 2010\Projects\ExcelCheck\ExcelCheck\obj\x86\Debug\ExcelCheck.Properties.Resources.resources
+d:\我的文档\documents\visual studio 2010\Projects\ExcelCheck\ExcelCheck\obj\x86\Debug\ExcelCheck.csproj.GenerateResource.Cache
+d:\我的文档\documents\visual studio 2010\Projects\ExcelCheck\ExcelCheck\obj\x86\Debug\ExcelCheck.exe
+d:\我的文档\documents\visual studio 2010\Projects\ExcelCheck\ExcelCheck\obj\x86\Debug\ExcelCheck.pdb
+d:\我的文档\documents\visual studio 2010\Projects\ExcelCheck\ExcelCheck\obj\x86\Debug\ExcelCheck.csprojResolveAssemblyReference.cache
